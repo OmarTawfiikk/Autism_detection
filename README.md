@@ -22,13 +22,21 @@ This project utilizes a VGG16-based deep learning model to detect autism spectru
 
 autism/
 ├── train/
+
 │   ├── autistic/
+
 │   └── non_autistic/
+
 ├── test/
+
 │   ├── autistic/
+
 │   └── non_autistic/
+
 └── valid/
+
     ├── autistic/
+    
     └── non_autistic/
 
 ## Model Architecture  
