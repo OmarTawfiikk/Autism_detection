@@ -18,26 +18,6 @@ This project utilizes a VGG16-based deep learning model to detect autism spectru
 
 -High Accuracy: Achieves 81% accuracy on unseen test data
 
-## Dataset Structure
-
-autism/
-├── train/
-
-│   ├── autistic/
-
-│   └── non_autistic/
-
-├── test/
-
-│   ├── autistic/
-
-│   └── non_autistic/
-
-└── valid/
-
-    ├── autistic/
-    
-    └── non_autistic/
 
 ## Model Architecture  
 
